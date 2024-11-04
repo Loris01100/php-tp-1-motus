@@ -1,0 +1,10 @@
+{
+  "name": "3olen/tp-motus",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "TpMotus\\": "src/"
+    }
+  },
+  "require": {}
+}
