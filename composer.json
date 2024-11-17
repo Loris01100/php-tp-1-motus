@@ -3,8 +3,10 @@
   "type": "project",
   "autoload": {
     "psr-4": {
-      "TpMotus\\": "src/"
+      "TpMotus\\": "Classe/"
     }
   },
-  "require": {}
+  "require": {
+    "ext-mbstring": "*"
+  }
 }
